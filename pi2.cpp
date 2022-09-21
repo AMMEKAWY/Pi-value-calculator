@@ -7,9 +7,9 @@ double sign(double list[], int length);
 double sum(double list[],int length);
 
 
-int l=10000000000;
-int odd[10000000000]={};
-double frac[10000000000]={};
+int l=10000000;
+int odd[10000000]={};
+double frac[10000000]={};
 
 
 int main(){
